@@ -1,0 +1,43 @@
+﻿生成启动时间为 2014-11-10 11:50:14。
+     1>项目“E:\workspace\HXH\svn\server\trunk\HHCARobot\HHCARobot\HHCARobot.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\HHCARobot.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\tinyxml /ZI /nologo /W4 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\HHCARobot.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt HHCARobot.cpp test.cpp
+         test.cpp
+         HHCARobot.cpp
+         正在生成代码...
+       ResourceCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\workspace\HXH\svn\server\trunk\HHCARobot\Debug\HHCARobot.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\HHCARobot.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\workspace\HXH\svn\server\trunk\HHCARobot\Debug\HHCARobot.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\workspace\HXH\svn\server\trunk\HHCARobot\Debug\HHCARobot.lib" /MACHINE:X86 Debug\HHCARobot.res
+         Debug\HHCARobot.exe.embed.manifest.res
+         Debug\const.obj
+         Debug\history.obj
+         Debug\test.obj
+         Debug\view.obj
+         Debug\draw.obj
+         Debug\file.obj
+         Debug\HHCARobot.obj
+         Debug\lab.obj
+         Debug\map.obj
+         Debug\robot.obj
+         Debug\stdafx.obj
+         E:\workspace\HXH\svn\server\trunk\HHCARobot\Debug\tinyxml.lib
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\HHCARobot.exe.embed.manifest" /manifest Debug\HHCARobot.exe.intermediate.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         HHCARobot.vcxproj -> E:\workspace\HXH\svn\server\trunk\HHCARobot\Debug\HHCARobot.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\HHCARobot.unsuccessfulbuild”。
+         正在对“Debug\HHCARobot.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\workspace\HXH\svn\server\trunk\HHCARobot\HHCARobot\HHCARobot.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.12

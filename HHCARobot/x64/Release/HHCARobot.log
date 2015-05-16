@@ -1,0 +1,38 @@
+﻿生成启动时间为 2014-11-10 11:50:34。
+     1>项目“E:\workspace\HXH\svn\server\trunk\HHCARobot\HHCARobot\HHCARobot.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“x64\Release\HHCARobot.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /I..\tinyxml /Zi /nologo /W4 /WX /MP /O2 /Oi /Ot /GL /D _WIN64 /D NDEBUG /D _WINDOWS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"x64\Release\HHCARobot.pch" /Fo"x64\Release\\" /Fd"x64\Release\vc100.pdb" /Gd /TP /errorReport:prompt HHCARobot.cpp test.cpp
+         HHCARobot.cpp
+         test.cpp
+       ResourceCompile:
+         所有输出均为最新。
+       Link:
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\workspace\HXH\svn\server\trunk\HHCARobot\x64\Release\HHCARobot.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"x64\Release\HHCARobot.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\workspace\HXH\svn\server\trunk\HHCARobot\x64\Release\HHCARobot.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\workspace\HXH\svn\server\trunk\HHCARobot\x64\Release\HHCARobot.lib" /MACHINE:X64 x64\Release\HHCARobot.res
+         x64\Release\const.obj
+         x64\Release\history.obj
+         x64\Release\test.obj
+         x64\Release\view.obj
+         x64\Release\draw.obj
+         x64\Release\file.obj
+         x64\Release\HHCARobot.obj
+         x64\Release\lab.obj
+         x64\Release\map.obj
+         x64\Release\robot.obj
+         x64\Release\stdafx.obj
+         E:\workspace\HXH\svn\server\trunk\HHCARobot\x64\Release\tinyxml.lib
+         正在生成代码
+         已完成代码的生成
+         HHCARobot.vcxproj -> E:\workspace\HXH\svn\server\trunk\HHCARobot\x64\Release\HHCARobot.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"E:\workspace\HXH\svn\server\trunk\HHCARobot\x64\Release\HHCARobot.exe.manifest" /manifest x64\Release\HHCARobot.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“x64\Release\HHCARobot.unsuccessfulbuild”。
+         正在对“x64\Release\HHCARobot.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\workspace\HXH\svn\server\trunk\HHCARobot\HHCARobot\HHCARobot.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.57

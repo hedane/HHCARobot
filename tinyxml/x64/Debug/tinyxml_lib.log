@@ -1,0 +1,29 @@
+﻿生成启动时间为 2014-11-07 23:09:51。
+     1>项目“E:\workspace\HXH\svn\server\trunk\HHCARobot\tinyxml\tinyxml_lib.vcxproj”在节点 2 上(rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“x64\Debug\tinyxml.lastbuildstate”。
+       InitializeBuildStatus:
+         正在创建“x64\Debug\tinyxml.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W4 /WX- /Od /D _WIN64 /D _DEBUG /D _LIB /D _VC80_UPGRADE=0x0600 /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc100.pdb" /FR"x64\Debug\\" /Gd /TP /errorReport:prompt tinystr.cpp tinyxml.cpp tinyxmlerror.cpp tinyxmlparser.cpp
+         tinystr.cpp
+         tinyxml.cpp
+         tinyxmlerror.cpp
+         tinyxmlparser.cpp
+         Generating Code...
+       Lib:
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\Lib.exe /OUT:"E:\workspace\HXH\svn\server\trunk\HHCARobot\x64\Debug\tinyxml.lib" /NOLOGO x64\Debug\tinystr.obj
+         x64\Debug\tinyxml.obj
+         x64\Debug\tinyxmlerror.obj
+         x64\Debug\tinyxmlparser.obj
+         tinyxml_lib.vcxproj -> E:\workspace\HXH\svn\server\trunk\HHCARobot\x64\Debug\tinyxml.lib
+       BscMake:
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\bscmake.exe /nologo /o"E:\workspace\HXH\svn\server\trunk\HHCARobot\x64\Debug\tinyxml.bsc" x64\Debug\tinystr.sbr x64\Debug\tinyxml.sbr x64\Debug\tinyxmlerror.sbr x64\Debug\tinyxmlparser.sbr
+       FinalizeBuildStatus:
+         正在删除文件“x64\Debug\tinyxml.unsuccessfulbuild”。
+         正在对“x64\Debug\tinyxml.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\workspace\HXH\svn\server\trunk\HHCARobot\tinyxml\tinyxml_lib.vcxproj”(rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01
